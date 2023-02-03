@@ -14,6 +14,8 @@ Install pip modules
 `python3 main.py` \
 Run the script!
 
+The preprocessed results must be at `test.txt`.
+
 Happy ML!
 
 # Disclaimer

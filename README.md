@@ -1,5 +1,5 @@
 # Sat_korean
-Preprocessing S.A.T. Korean script for deep learning.
+Preprocessing S.A.T. Korean corpus for deep learning.
 
 ## Usage
 `https://github.com/deveworld/Sat_korean/` \

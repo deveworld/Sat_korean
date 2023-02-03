@@ -18,7 +18,7 @@ if __name__ == "__main__":
 	print("proccessing to 'text.txt' ...")
 
 	f = open('text.txt', 'w')
-	for file in files.values:
+	for file in files.values():
 		with fitz.open(f'{file}.pdf') as doc:
 			for page in doc:
 				text = preproccess(page.get_text())

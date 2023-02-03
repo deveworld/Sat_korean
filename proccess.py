@@ -1,6 +1,4 @@
-import fitz
 import re
-import sys
 from sat_db import cleaner, trimer
 
 def preproccess(string):

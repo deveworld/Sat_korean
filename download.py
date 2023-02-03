@@ -1,3 +1,4 @@
+import os
 import wget
 import zipfile
 from sat_db import files, zip_files, unzip_files

@@ -1,3 +1,5 @@
+import os
+import fitz
 from download import download
 from proccess import preproccess
 from sat_db import url, files
